@@ -8,10 +8,10 @@ To install Banana Split, simply extract the zip file to a location of your choos
 
 ## Screen Shots
 
-![File Browser](https://cldup.com/CDo6Rq8b01.png "The file browser")
-![Spliting Interface](https://cldup.com/nA7SAjPnCi.png "The main splitting interface")
-![Spliting Interface With Splits](https://cldup.com/JiwElYOEG9.png "Naming segments of the video")
-![Queue](https://cldup.com/WNQ2OYYqCX.png "Queue with a segment being processed")
+![File Browser](.media/CDo6Rq8b01.png "The file browser")
+![Spliting Interface](.media/nA7SAjPnCi.png "The main splitting interface")
+![Spliting Interface With Splits](.media/JiwElYOEG9.png "Naming segments of the video")
+![Queue](.media/WNQ2OYYqCX.png "Queue with a segment being processed")
 
 ## Known Limitations
 
@@ -20,6 +20,7 @@ To install Banana Split, simply extract the zip file to a location of your choos
  - No errors are thrown for permission issues. Make sure you can write to the same folder as the source video.
 
 ### Version
+
 2.0.0
 
 ### Tech
@@ -32,6 +33,10 @@ Banana Split uses a number of open source projects to work properly:
 * [Electron](http://electron.atom.io/) - Because hybrid apps rock
 
 ### Changelog
+
+#### 3.0.0
+
+- Forked to add Docker support
 
 #### 2.0.0
 
